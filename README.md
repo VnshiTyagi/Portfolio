@@ -1,65 +1,63 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
-This is my personal portfolio website created using **HTML and CSS**.  
-I built this project to practice my frontend development skills and showcase my profile, skills, and projects in one place.
+A personal portfolio website created using HTML and CSS.
 
-## 🚀 About the Project
+This project was built to practice frontend development and showcase my skills, projects, and contact information.
 
-The portfolio provides a simple introduction about me and highlights my skills and projects. It was created as part of my learning journey in web development.
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
-- Font Awesome Icons
+- Font Awesome
 
-## ✨ Features
+## Features
 
-- Responsive navigation bar
+- Home section
 - About Me section
 - Skills section
 - Projects section
 - Contact section
 - Social media links
-- Clean and responsive design
 
-## 📂 Project Structure
+## Project Structure
 
-```text
-Portfolio/
-│
-└── portfolio_pro/
-    ├── index.html
-    ├── style.css
-    └── images/
-```
+    Portfolio/
+    └── portfolio_pro/
+        ├── index.html
+        ├── style.css
+        └── images/
 
-## 💻 Running the Project
+## How to Run
 
-1. Clone this repository:
+1. Clone the repository:
 
-```bash
-git clone https://github.com/VnshiTyagi/Portfolio.git
-```
+    git clone https://github.com/VnshiTyagi/Portfolio.git
 
 2. Open the `portfolio_pro` folder.
 
 3. Open `index.html` in your browser.
 
-## 🎯 What I Learned
+## What I Learned
 
-While building this project, I practiced:
+Through this project, I practiced:
 
-- Structuring webpages using HTML
+- Creating webpage structures using HTML
 - Styling webpages using CSS
-- Creating layouts and sections
-- Working with icons and images
-- Building a complete webpage from scratch
+- Working with layouts and sections
+- Using icons and images
+- Building a complete portfolio webpage
 
-## 📌 Future Improvements
+## Future Improvements
 
-As I continue learning web development, I plan to improve the portfolio by adding more projects, better responsiveness, animations, and JavaScript functionality.
+- Add JavaScript functionality
+- Improve responsiveness
+- Add more projects
+- Add animations and interactions
+
+## Author
+
+**Vanshika Tyagi**
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+Thanks for visiting my portfolio!
